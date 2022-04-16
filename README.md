@@ -46,6 +46,7 @@ let's say we have a case when actually stock is a "STRONG SELL" at the moment an
 
 So the best perfomance metric would be F1 score because F1 score is the harmonic mean between precision and recall and it will be high when both precision and recall will be high.
 
+# Conclusion 
 This Project was a part of my internship at Dimensions & Fact Solutions Private Limited(UK), The company is currently working on the stock market entry exit predictions, we have also deployed this project on a web app, where we used StreamLit as a Front end and Google Cloud Platform as a Backend.
 
 I am not sharing the link of app here because i dont want people to use the app for real time trading, This web app is still in a very early stage and it may lead to wrong decisions.
